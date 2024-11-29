@@ -17,10 +17,11 @@ Download Node.js (Official)  [Download Node Js Here](https://nodejs.org/).
 
 ### Deploy & Setup
 1. Install WhatsApp-Web.js Packages :
+   
 ```
 $ npm i whatsapp-web.js
 ```
-After succeeded, all you have to do is install **QRCODE-TERMINAL**
+ 2. After installing the required library, the last thing you have to do is to install **QRCODE-TERMINAL**
 ```
 $ npm i qrcode-terminal
 ```
