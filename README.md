@@ -35,11 +35,6 @@ After the setup completed, you could run the script and scan the QR code display
 | `whatsapp-web.js` | `Required` | Main dependency and packages |
 | `qrcode-terminal` | `Required` | Generating QR Code to connect to your whatsapp |
 
-### EXAMPLE COMMAND
-When user type `!help` the bot will instantly reply this message : <br><br>
-![ms](https://i.ibb.co/VTvgfKc/Whats-App-Image-2023-02-12-at-11-20-43.jpg)
-
-
 # Notes :
 
 Sometimes you will run into some problem, you may need to reinstall your libraries and re-run your script, check for misspelling, it might help you. and don't forget to put `;` it always causes errors, but nowaday javascript doesn't really need to use it anymore. take a precautions and examine the errors to fix it. you might seek a expert to solve your problems. or just ask ChatGPT
