@@ -32,8 +32,8 @@ After the setup completed, you could run the script and scan the QR code display
 ### Data Table
 | Library | Activation     | Description                |
 | :-------- | :------- | :------------------------- |
-| `whatsapp-web.js` | `Required` | **Required**. Main dependency and packages |
-| `qrcode-terminal` | `Required` | **Required**. Generating QR Code to connect to your whatsapp |
+| `whatsapp-web.js` | `Required` | Main dependency and packages |
+| `qrcode-terminal` | `Required` | Generating QR Code to connect to your whatsapp |
 
 ### EXAMPLE COMMAND
 When user type `!help` the bot will instantly reply this message : <br><br>
