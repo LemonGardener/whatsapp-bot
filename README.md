@@ -2,8 +2,8 @@
 Automatic bot for whatsapp, have yourself a self-running bot inside your chat group. <br>
 Official Documentation : https://wwebjs.dev/guide/ <br><br>
 
-<br>
 ### Required Dependencies
+
 - Node.js Download
 - Setup Application
 - Data Table
